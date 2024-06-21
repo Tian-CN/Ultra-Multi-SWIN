@@ -7,4 +7,4 @@
 
 This project is based on ([code](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)), Swin-Transformer ([paper](https://arxiv.org/pdf/2103.14030.pdf), [code](https://github.com/microsoft/Swin-Transformer)), thanks for their excellent works.
 
-* **We release [Fast-iTPN](https://github.com/sunsmarterjie/iTPN/tree/main/fast_itpn) recently, which reports the best performance on ImageNet-1K at Tiny/Small/Base level models as far as we know. (Tiny-24M-86.5%, Small-40M-87.8%, Base-85M-88.75%)**
+* **We release [Ultra-Multi-SWIN](https://github.com/Tian-CN/Ultra-Multi-SWIN) recently, which reports the best performance on PE-US dataset as far as we know. (Experimental results demonstrate a significant improvement over baselines for subject-dependent experiments (ACC: 0.988, STD: 0.019), subject-independent experiments (ACC: 0.952, STD: 0.073), and other open-access medical datasets.)**
