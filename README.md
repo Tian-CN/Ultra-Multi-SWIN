@@ -1,6 +1,8 @@
 # Ultra-Multi-SWIN
 
+### Initial Commit Message
 
+This is the initial version of the codebase. Please note that this release is a raw version, and we are currently in the process of refining and organizing the code. We will be releasing a standardized version shortly, which will include improved documentation, better code organization, and enhanced readability. Stay tuned for updates!
 
 
 ## Acknowledgment
